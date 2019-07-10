@@ -1,4 +1,25 @@
 
+2.4.1 / 2019-03-19
+==================
+
+**fixes**
+  * [[`d048015`](http://github.com/eggjs/egg-logger/commit/d048015f63dde2917cb51f8f30b87a320b2d892b)] - fix: duplicate should ignore some transports (#45) (TZ | 天猪 <<atian25@qq.com>>)
+
+2.4.0 / 2019-03-14
+==================
+
+**features**
+  * [[`0cbbe47`](http://github.com/eggjs/egg-logger/commit/0cbbe47efb10897ac55a892bc670d3924a1ddfb5)] - feat: support contextFormatter (#51) (Haoliang Gao <<sakura9515@gmail.com>>)
+
+2.3.2 / 2019-02-28
+==================
+
+**fixes**
+  * [[`f51216b`](http://github.com/eggjs/egg-logger/commit/f51216bd84d48f75e44ebe2e1208c308d1969dce)] - fix: crash when format a getter-only error stack (#50) (Khaidi Chu <<i@2333.moe>>)
+
+**others**
+  * [[`858a8b4`](http://github.com/eggjs/egg-logger/commit/858a8b46495fed21efb4215e36764b3030e573ee)] - chore: comments typo fix (#47) (Jeff <<jeff.tian@outlook.com>>)
+
 2.3.1 / 2019-01-03
 ==================
 
